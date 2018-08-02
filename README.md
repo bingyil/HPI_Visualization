@@ -1,11 +1,10 @@
-# MSDS622_Visualization
+# Housing Price Index Visualization
 
-## An Interactive View of US Housing Price Index Changes
-
-Team Members: Bingyi Li, Guoqiang Liang  
+Team Members: Bingyi Li, Guoqiang Liang
+Goal: Create an interactive view of US HPI(Housing Price Index) changes
 Website: https://asenliang.github.io  
 
-### Project Objectives
+# Project Objectives
 The primary goal of this project is to create an interactive visualization of historical U.S.
 Housing Price Index values. More specifically, we identified a few detailed objectives:
 1. Compare the HPI of different states at a historical time point
