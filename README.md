@@ -3,8 +3,6 @@
 ## An Interactive View of US Housing Price Index Changes
 
 Team Members: Bingyi Li, Guoqiang Liang  
-E-mail Addresses: bli36@dons.usfca.edu, gliang5@dons.usfca.edu  
-Github Repository: https://github.com/asenliang/MSDS622_Visualization  
 Website: https://asenliang.github.io  
 
 ### Project Objectives
