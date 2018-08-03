@@ -1,6 +1,6 @@
 # Housing Price Index Visualization
 
-Team Members: Bingyi Li, Guoqiang Liang
+Team Members: Guoqiang Liang, Bingyi Li
 
 ## Goal
 Create an interactive visualization of historical U.S. Housing Price Index values
